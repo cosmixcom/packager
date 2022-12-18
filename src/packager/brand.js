@@ -27,8 +27,8 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'TurboWarp Packager',
-  WEBSITE: 'https://packager.turbowarp.org/',
+  APP_NAME: 'OrionIDE Packager',
+  WEBSITE: 'https://packager.orionide.cf/',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2022 Thomas Weber
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -45,12 +45,12 @@ limitations under the License.`,
   ACCENT_COLOR: '#ff4c4c',
   SOURCE_CODE: 'https://github.com/TurboWarp/packager',
   FEEDBACK_PRIMARY: {
-    name: 'Scratch',
-    link: 'https://scratch.mit.edu/users/GarboMuffin/#comments'
+    name: 'Mail',
+    link: 'mailto:orionideteam@gmail.com'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
-    link: 'https://github.com/TurboWarp/packager/issues'
+    link: 'https://github.com/cosmixcom/packager/issues'
   },
   DONATE: 'https://github.com/sponsors/GarboMuffin',
 };
